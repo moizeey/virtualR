@@ -28,7 +28,7 @@ function App() {
     <ThemeProvider value={{ themeMode, lightTheme, darkTheme }}>
       <div className="dark:bg-[#121212] dark:text-white  ">
         <Navbar />
-        <div className="max-w-7xl mx-auto pt-10 px-6">
+        <div className="max-w-7xl  mx-auto pt-10 px-6">
           <Hero />
           <Feature />
           <Workflow />
