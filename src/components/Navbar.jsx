@@ -29,11 +29,7 @@ function Navbar() {
       <div className="mx-auto relative text-sm px-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center flex-shrink-0">
-            <img
-              className="h-10 w-10 mr-2"
-              src="src\assets\logo.png"
-              alt="logo"
-            />
+            <img className="h-10 w-10 mr-2" src="/logo.png" alt="logo" />
             <span className="text-xl  tracking-tight ">VirtualR</span>
           </div>
           <ul className="hidden lg:flex space-x-4">

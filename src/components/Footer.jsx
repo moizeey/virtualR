@@ -51,6 +51,7 @@ function Footer() {
           </ul>
         </div>
       </div>
+
       <div className="border-t border-t-neutral-700 pb-4"></div>
     </div>
   );

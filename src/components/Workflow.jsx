@@ -14,7 +14,7 @@ function Workflow() {
       </div>
       <div className="flex flex-wrap justify-center">
         <div className="w-full lg:w-1/2 mt-10 p-2 ">
-          <img className="rounded-md " src="src\assets\code.jpg" alt="code" />
+          <img className="rounded-md " src="/code.jpg" alt="code" />
         </div>
         <div className="w-full lg:w-1/2 pt-20 space-y-4 ">
           {checklistItems.map((item, index) => (

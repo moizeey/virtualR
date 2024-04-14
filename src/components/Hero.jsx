@@ -29,14 +29,14 @@ function Hero() {
       </div>
       <div className="flex justify-center gap-4 mt-10 mx-4">
         <video
-          src="src\assets\video1.mp4"
+          src="/video1.mp4"
           className="w-1/2 border-2 border-orange-700 rounded-md shadow-orange-400 "
           autoPlay
           muted
           loop
         ></video>
         <video
-          src="src\assets\video2.mp4"
+          src="/video2.mp4"
           className="w-1/2 border-2 border-orange-700 shadow-orange-400 rounded-md   "
           autoPlay
           muted
